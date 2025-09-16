@@ -18,14 +18,18 @@
 ## 📂 Case Studies  
 
 ### 1. Campaign Anomaly Detection (2023–2025)  
+
 **Context:** Large-scale digital campaigns often face hidden performance issues.  
+
 **Approach:**  
 - Designed rule-based + statistical anomaly detection logic  
 - Built scalable monitoring pipelines with BigQuery & Airflow  
-- Iteratively improved detection precision and coverage  
+- Iteratively improved detection precision and coverage
+  
 **Impact:**  
 - Detected 60%+ of campaign issues with 85%+ precision  
-- Enabled early escalation and client budget expansion  
+- Enabled early escalation and client budget expansion
+  
 **Key Learnings:** Real-time anomaly detection requires **scalable data pipelines** and **interpretable models**.  
 
 ---
@@ -47,24 +51,32 @@
 ---
 
 ### 3. Deep Learning for Video Enhancement (Samsung Electronics, 2020–2021)  
+
 **Context:** Enhancing video quality (frame interpolation, optical flow) for consumer devices.  
+
 **Approach:**  
 - Implemented SOTA deep learning models for video enhancement  
-- Optimized and compressed models for commercial deployment  
+- Optimized and compressed models for commercial deployment
+  
 **Impact:**  
 - Outperformed SOTA baselines on challenging test cases  
-- Delivered enhanced visual experience in consumer electronics  
+- Delivered enhanced visual experience in consumer electronics
+  
 **Key Learnings:** Deploying deep learning to devices requires managing the **performance–efficiency tradeoff**.  
 
 ---
 
 ### 4. Semiconductor Process Optimization (Ph.D. + Samsung Collaboration)  
+
 **Context:** Process-equipment allocation is a key bottleneck in semiconductor manufacturing.  
+
 **Approach:**  
 - Applied **Genetic Algorithms** to optimize allocation under constraints  
-- Modeled real-world manufacturing conditions for practical relevance  
+- Modeled real-world manufacturing conditions for practical relevance
+  
 **Impact:**  
-- Improved manufacturing efficiency and throughput  
+- Improved manufacturing efficiency and throughput
+  
 **Key Learnings:** Manufacturing optimization requires combining **algorithmic innovation** with **real-world deployability**.  
 
 ---
