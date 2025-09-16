@@ -65,8 +65,9 @@
 **Context:** Process-equipment allocation is a key bottleneck in semiconductor manufacturing.  
 
 **Approach:**  
-- Applied **Genetic Algorithms** to optimize allocation under constraints  
+- Applied **Genetic Algorithms** to optimize allocation under complex constraints  
 - Modeled real-world manufacturing conditions for practical relevance
+- Balancing productivity and minimal disruption to existing systems
   
 **Impact:**  
 - Improved manufacturing efficiency and throughput
