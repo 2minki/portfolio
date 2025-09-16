@@ -30,14 +30,18 @@
 
 ---
 
-### 2. Campaign Forecasting Under Budget Changes (2022)  
-**Context:** Advertisers needed accurate forecasts under varying budget conditions.  
+### 2. Campaign Forecasting Under Budget Changes (2022)
+
+**Context:** Advertisers needed accurate forecasts under varying budget conditions.
+
 **Approach:**  
 - Developed forecasting models for campaign KPIs  
-- Validated results with A/B tests across 100+ campaigns  
+- Validated results with A/B tests across 100+ campaigns
+
 **Impact:**  
 - Achieved 90%+ prediction accuracy  
-- Supported strategic budget decisions for clients  
+- Supported strategic budget decisions for clients
+
 **Key Learnings:** Effective forecasting balances **statistical rigor** and **business interpretability**.  
 
 ---
