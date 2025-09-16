@@ -29,24 +29,20 @@
 **Impact:**  
 - Detected 60%+ of campaign issues with 85%+ precision  
 - Enabled early escalation and client budget expansion
-  
-**Key Learnings:** Real-time anomaly detection requires **scalable data pipelines** and **interpretable models**.  
 
 ---
 
 ### 2. Campaign Forecasting Under Budget Changes (2022)
 
-**Context:** Advertisers needed accurate forecasts under varying budget conditions.
+  **Context:** Advertisers required reliable performance forecasts under changing budget conditions.
 
 **Approach:**  
-- Developed forecasting models for campaign KPIs  
+- Developed estimation models for campaign KPIs  
 - Validated results with A/B tests across 100+ campaigns
 
 **Impact:**  
 - Achieved 90%+ prediction accuracy  
 - Supported strategic budget decisions for clients
-
-**Key Learnings:** Effective forecasting balances **statistical rigor** and **business interpretability**.  
 
 ---
 
@@ -61,8 +57,6 @@
 **Impact:**  
 - Outperformed SOTA baselines on challenging test cases  
 - Delivered enhanced visual experience in consumer electronics
-  
-**Key Learnings:** Deploying deep learning to devices requires managing the **performance–efficiency tradeoff**.  
 
 ---
 
@@ -76,8 +70,6 @@
   
 **Impact:**  
 - Improved manufacturing efficiency and throughput
-  
-**Key Learnings:** Manufacturing optimization requires combining **algorithmic innovation** with **real-world deployability**.  
 
 ---
 
