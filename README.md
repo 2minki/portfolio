@@ -3,7 +3,7 @@
 ## 👋 About Me
 - Data Scientist with expertise in **machine learning, optimization, and large-scale data systems**  
 - Ph.D. in Computer Science & Engineering (Seoul National University)  
-- Experience across **advertising technology, computer vision, and manufacturing/energy optimization**  
+- Experience across **advertising technology (ad tech), computer vision**, and **time-series data quality & anomaly detection (sensor/log data)**  
 - Passionate about turning data into actionable insights that drive real-world impact  
 
 ---
@@ -50,26 +50,25 @@
 **Key Learnings:** Advancing beyond SOTA often requires critical evaluation of existing methods and **novel architectural ideas** tuned for real-world deployment constraints.
 
 #### 4-2) Deep Learning-based Music Generation
-**Context:** Certain video devices required large volumes of **copyright-free BGM**, and manual production was resource-intensive.  
-**Approach:** I adapted **language-model architectures** to musical sequence modeling and built a generative system capable of producing **unlimited, copyright-free BGM**. The **generated tracks were curated and applied to product use cases** (the model itself was **not embedded** in the devices). Quality was evaluated via listening sessions, where participants noted the music did not sound “AI-generated.”  
-**Impact:** Delivered scalable, natural-sounding BGM for product integration while avoiding copyright risk and showcasing the practicality of AI-driven content creation in multimedia ecosystems.  
-**Key Learnings:** In creative domains, technical quality must be validated by **human perception**, making structured user evaluations essential.
+**Context:** Certain video devices required large volumes of **copyright-safe BGM**, and manual production was resource-intensive.  
+**Approach:** I adapted **language-model architectures** to musical sequence modeling to generate scalable, copyright-free BGM; tracks were curated and applied to product use cases (the model itself was not embedded). Listening sessions indicated the music did not sound “AI-generated.”  
+**Impact:** Demonstrated a practical path for copyright-safe content production; exploratory scope with limited footprint relative to core projects.
 
 ---
 
-### 5) Semiconductor Process Optimization (Ph.D. + Samsung Collaboration)
+### 5) Time-Series Data Quality & Anomaly Correction (Ph.D. + National Weather Agency Collaboration, 2014–2018)
+**Context:** Sensor-based time-series (e.g., weather) often contain anomalies from device faults and transmission errors, which distort downstream analysis and forecasting.  
+**Approach:** In collaboration with the national weather agency, I developed ML approaches (e.g., **Support Vector Regression**) to detect anomalies in time-series data and implemented automatic correction mechanisms to replace abnormal values with valid estimates—focusing on scalable pipelines and data credibility for downstream users.  
+**Impact:** The work improved dataset reliability used for national-scale forecasting and decision making, and was published in peer-reviewed venues (IEEE SMC 2014, Advances in Meteorology 2018).  
+**Key Learnings:** In data-critical domains, **input quality assurance** via anomaly detection/correction is as vital as improving predictive models.
+
+---
+
+### 6) Semiconductor Process Optimization (Ph.D. + Samsung Collaboration)
 **Context:** Efficiently allocating processes across equipment is a core challenge in semiconductor manufacturing with direct implications for throughput and cost.  
 **Approach:** I applied **Genetic Algorithms** to optimize process–equipment allocation under realistic production constraints, modeling domain rules to ensure adoptability on the floor.  
 **Impact:** The approach improved manufacturing efficiency and throughput and demonstrated how optimization research can transfer into industry settings.  
 **Key Learnings:** Algorithmic innovation delivers impact when it is aligned with real-world constraints and operational realities.
-
----
-
-### 6) Meteorological Data Anomaly Detection (Ph.D. + Korea Meteorological Administration, 2014–2018)
-**Context:** Weather datasets contain anomalies from sensor faults and transmission errors, which distort downstream analyses and forecasts.  
-**Approach:** In collaboration with the **KMA**, I developed ML approaches (e.g., **Support Vector Regression**) to detect anomalies in time-series weather data and implemented automatic correction mechanisms to replace abnormal values with valid estimates.  
-**Impact:** Improved data quality and reliability for national forecasting workflows; outcomes were published in peer-reviewed venues (IEEE SMC 2014, Advances in Meteorology 2018).  
-**Key Learnings:** In data-critical domains, **data quality assurance** via anomaly detection/correction is as vital as improving predictive models.
 
 ---
 
