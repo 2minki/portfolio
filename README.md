@@ -34,9 +34,9 @@
 ---
 
 ### 3) Campaign Optimization (Moloco, 2022–2025)
-**Context:** Beyond predicting outcomes, advertisers needed actionable strategies to improve efficiency and maximize ROI.  
+**Context:** Advertisers needed actionable strategies to improve efficiency and maximize ROI.  
 **Approach:** I analyzed performance metrics, market trends, and competitor benchmarks to identify optimization levers, designed and executed controlled experiments to validate hypotheses, and partnered with clients to translate findings into concrete strategy changes.  
-**Impact:** The work delivered measurable improvements in CTR and conversion rates and supported client **budget expansions** by demonstrating sustainable ROI.  
+**Impact:** The work delivered measurable improvements in **key campaign KPIs** and supported client **budget expansions** by demonstrating sustainable ROI.  
 **Key Learnings:** Effective optimization blends rigorous analytics with business context so insights translate into tangible performance gains.
 
 ---
@@ -44,21 +44,21 @@
 ### 4) AI for Multimedia Enhancement (Samsung Electronics, 2020–2021)
 
 #### 4-1) Deep Learning for Video Enhancement
-**Context:** Consumer video devices demand smoother playback and higher frame quality, yet efficient frame enhancement is challenging.  
+**Context:** Consumer **display devices** demand smoother playback and higher frame quality, yet efficient frame enhancement is challenging.  
 **Approach:** Rather than adopt a single SOTA model, I **surveyed multiple cutting-edge papers** and **evaluated their released codes** to map strengths and weaknesses across scenarios. From these findings, I proposed a **new architecture** that overcame key limitations and engineered it to balance accuracy with computational efficiency for product-oriented use.  
 **Impact:** Although the model was **not immediately deployed** on devices, it **outperformed prior SOTA** on challenging video test cases and **laid the groundwork** for future product integration as a **preliminary/advanced research** effort.  
 **Key Learnings:** Advancing beyond SOTA often requires critical evaluation of existing methods and **novel architectural ideas** tuned for real-world deployment constraints.
 
 #### 4-2) Deep Learning-based Music Generation
-**Context:** Certain video devices required large volumes of **copyright-safe BGM**, and manual production was resource-intensive.  
+**Context:** Certain **display devices** required large volumes of **copyright-safe BGM**, and manual production was resource-intensive.  
 **Approach:** I adapted **language-model architectures** to musical sequence modeling to generate scalable, copyright-free BGM; tracks were curated and applied to product use cases (the model itself was not embedded). Listening sessions indicated the music did not sound “AI-generated.”  
 **Impact:** Demonstrated a practical path for copyright-safe content production; exploratory scope with limited footprint relative to core projects.
 
 ---
 
-### 5) Time-Series Data Quality & Anomaly Correction (Ph.D. + National Weather Agency Collaboration, 2014–2018)
-**Context:** Sensor-based time-series (e.g., weather) often contain anomalies from device faults and transmission errors, which distort downstream analysis and forecasting.  
-**Approach:** In collaboration with the national weather agency, I developed ML approaches (e.g., **Support Vector Regression**) to detect anomalies in time-series data and implemented automatic correction mechanisms to replace abnormal values with valid estimates—focusing on scalable pipelines and data credibility for downstream users.  
+### 5) Observational Data Quality & Anomaly Correction (Ph.D. + National Weather Agency Collaboration, 2014–2018)
+**Context:** Sensor-based **observational data** (e.g., weather observations) often contain anomalies from device faults and transmission errors, which distort downstream analysis and forecasting.  
+**Approach:** In collaboration with the national weather agency, I developed ML approaches (e.g., **Support Vector Regression**) to detect anomalies in **observational data** and implemented automatic correction mechanisms to replace abnormal values with valid estimates—focusing on scalable pipelines and data credibility for downstream users.  
 **Impact:** The work improved dataset reliability used for national-scale forecasting and decision making, and was published in peer-reviewed venues (IEEE SMC 2014, Advances in Meteorology 2018).  
 **Key Learnings:** In data-critical domains, **input quality assurance** via anomaly detection/correction is as vital as improving predictive models.
 
@@ -88,5 +88,4 @@
 
 ## 📬 Contact
 - 📧 Email: **imradris@gmail.com**  
-- 🔗 LinkedIn: **https://linkedin.com/in/minki-lee**  
-- 💻 GitHub: **https://github.com/minki-lee**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/minki-lee-3083bb193/**
